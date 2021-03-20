@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Greetings</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <video src="./BG-video.mp4" muted loop autoplay></video>
+    <header>
+      <p id="weather"></p>
+    </header>
+    <section class="main">
+      <div class="greeting">
+        <h2 id="greeting-text"></h2>
+      </div>
+
+      <div class="time-display">
+        <h1 id="time">12:15 AM.</h1>
+      </div>
+      <div class="flex-container">
+        <div class="quote-container">
+          <p id="quote-text"></p>
+          <p id="author"></p>
+        </div>
+      </div>
+    </section>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"
+      integrity="sha512-1dalHDkG9EtcOmCnoCjiwQ/HEB5SDNqw8d4G2MKoNwjiwMNeBAkudsBCmSlMnXdsH8Bm0mOd3tl/6nL5y0bMaQ=="
+      crossorigin="anonymous"
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>
