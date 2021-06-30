@@ -87,18 +87,17 @@ const Experience = ({ BackToTop }) => {
                 <div className="rect"></div>
               </div>
               <div className="exp-desc-cont cont2">
-                <h2>Volunteering</h2>
-                <h4>Peer tutoring(Winter 2020)</h4>
+                <h2>SKY IT</h2>
+                <h4>FrontEnd Developer(May 2021-present)</h4>
                 <p>
-                  In my final year of highschool I began tutoring my peers in
-                  chemistry and math. Post secondary education was creating
-                  immense stress regarding academic performance amongst my peers
-                  so, I wanted to help.
+                  Worked within an agile team to develop new designs and
+                  versions of our web services. Implemented enhanceents and
+                  improved visuals by translating UX/UI design.
                 </p>
                 <p>
-                  I Performed peer tutoring using visual supports, visual aids
-                  and detailed note summaries to help 3 students increase course
-                  average by 5%+.
+                  Worked closely with backend developers on a very large code
+                  base. My contributions as a front end developer lead me to
+                  adopt somewhat of a design role as well.
                 </p>
               </div>
             </div>
@@ -108,12 +107,13 @@ const Experience = ({ BackToTop }) => {
                 <div className="rect"></div>
               </div>
               <div className="exp-desc-cont cont3">
-                <h2>Mary Brown’s</h2>
-                <h4>Cashier(June 2019 - Aug 2019)</h4>
+                <h2>Volunteering</h2>
+                <h4>Peer tutoring(Winter 2020)</h4>
                 <p>
-                  Operated as a cashier and employed decision making and time
-                  management skills to work effectively with a group as a
-                  cashier in a high-intensity work environment.
+                  I Performed peer tutoring to help my peer swith the stress of
+                  post secondary education using visual supports, visual aids
+                  and detailed note summaries to help 3 students increase course
+                  average by 5%+.
                 </p>
               </div>
             </div>
@@ -124,7 +124,7 @@ const Experience = ({ BackToTop }) => {
               </div>
               <div className="exp-desc-cont last-cont cont4">
                 <h2>Pool Supplies Canada</h2>
-                <h4>Processing and Quality Assurance(Apr 2002 - Aug 2020)</h4>
+                <h4>Processing and Quality Assurance(Apr 2018 - Aug 2020)</h4>
                 <p>
                   Acted as quality control worker by supervising and reviewing
                   work of other processors to ensure operation of warehouse

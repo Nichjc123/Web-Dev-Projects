@@ -317,7 +317,7 @@ const Skills = ({ BackToTop }) => {
                 </div>
               </div>
               <div className="skills-item">
-                <p>GSAP (JS)</p>
+                <p>Node JS</p>
                 <div className="progress-bar">
                   <div
                     style={{ width: "80%" }}
@@ -329,7 +329,7 @@ const Skills = ({ BackToTop }) => {
               </div>
 
               <div className="skills-item">
-                <p>Fusion 360</p>
+                <p>Express</p>
                 <div className="progress-bar">
                   <div
                     style={{ width: "65%" }}
@@ -351,7 +351,7 @@ const Skills = ({ BackToTop }) => {
                 </div>
               </div>
               <div className="skills-item">
-                <p>SASS (CSS)</p>
+                <p>Redux</p>
                 <div className="progress-bar">
                   <div
                     style={{ width: "87%" }}
@@ -373,18 +373,18 @@ const Skills = ({ BackToTop }) => {
                 </div>
               </div>
               <div className="skills-item">
-                <p>MS Power Automate</p>
+                <p>Anglar</p>
                 <div className="progress-bar">
                   <div
                     style={{ width: "85%" }}
                     className="progress-bar-FILL B11"
                   >
-                    85%
+                    75%
                   </div>
                 </div>
               </div>
               <div className="skills-item">
-                <p>MS Sharepoint</p>
+                <p>Mongo DB</p>
                 <div className="progress-bar">
                   <div
                     style={{ width: "70%" }}
